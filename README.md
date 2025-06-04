@@ -42,4 +42,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+       Thus,the exploratory data analysis has been performed on the given data set.
